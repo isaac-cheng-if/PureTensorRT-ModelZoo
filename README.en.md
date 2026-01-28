@@ -1,4 +1,4 @@
-# PureTensorRT-ModelZoo
+# TensorRT-From-Scratch
 
 > **Pure C++ TensorRT Implementations | No ONNX | No Plugins | Build Engines Directly from Weights**
 
